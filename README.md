@@ -1,1 +1,1 @@
-# adams_et_al_trews_analysis
+This repository contains code for the analyses appearing in "Prospective, multi-site study of patient outcomes after implementation of a machine learning-based early warning system for sepsis" by Adams et al. (2022).
